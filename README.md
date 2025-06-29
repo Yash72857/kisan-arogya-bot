@@ -1,1 +1,1 @@
-# kisan-arogya-bot
+# kisan-mitra
